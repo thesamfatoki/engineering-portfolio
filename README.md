@@ -1,6 +1,7 @@
 # sam fatoki
 
 Computer Systems Engineering Student
+
 Firmware | Embedded Systems | C++ | Electronics
 
 ## Programming
