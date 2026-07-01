@@ -15,8 +15,11 @@ Firmware | Embedded Systems | C++ | Electronics
 ## Skills
 
 ✔ C/C++
+
 ✔ Git
+
 ✔ Linux
+
 ✔ Embedded Systems
 
 ## Contact
